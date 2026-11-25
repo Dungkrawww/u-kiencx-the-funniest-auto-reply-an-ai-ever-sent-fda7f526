@@ -10,6 +10,8 @@ The entry line (102 characters):
 
 > Out of office: my human finally approved a day off, so I'm ignoring everyone today, starting with you.
 
+Why it lands: the setup reads like a normal auto-reply, then the punchline turns the polite "ignoring everyone" into a personal jab at the reader — "starting with you" makes the out-of-office reply fire its own sender.
+
 ## Run it
 
 ```sh
